@@ -1,3 +1,9 @@
 .pt
 .pth
-.safetensors
+.safetensors*.bin
+*.safetensors
+*.pt
+*.onnx
+data/*.parquet
+data/*.csv
+models/
